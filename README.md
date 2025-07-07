@@ -7,7 +7,7 @@ An easy to use multi-list generator for your website
 * add an element with the ID the same as the title the list you want to use
 * Style to your taste!
 
-## Current HTML Layout
+## HTML Layout
 magilist generates its lists in one set way at the moment
 heres an example using all of the defailt values
 ```HTML
