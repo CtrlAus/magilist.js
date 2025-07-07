@@ -1,7 +1,6 @@
 // ###########################################################
 // # magilist.js v1.3 beta                                   #
-// # This is a fork of magilog for a more general use        #
-// # created by CtrlAustin                                   #
+// # created by CtrlAus                                      #
 // # Distributed under the GPL3 Licence                      #
 // ###########################################################
 
